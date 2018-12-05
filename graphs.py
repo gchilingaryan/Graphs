@@ -7,7 +7,6 @@ class Vertex:
 
 class Graph:
     def __init__(self):
-        self.__head = None
         self.adjacency_list = []
 
     def add_edge(self, vertex, neighbor):
