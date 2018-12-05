@@ -1,2 +1,2 @@
 # Graphs
-DFS and BHS Traversal
+DFS and BFS Traversal
